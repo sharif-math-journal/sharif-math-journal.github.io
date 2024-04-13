@@ -5,7 +5,7 @@ date: 2012-01-09 00:34:00 +0800
 categories: [Second Series]
 tags: [mathematical aesthetics, group theory, algebra, topology, combinatorics, algorithms, interview, mathematical analysis, logic, computability, social sciences, online algorithms, Sperner lemma, Brouwer fixed-point theorem, Yuri Manin]
 image:
-path: /assets/front_pages/second_series/Issue1.png
+  path: /assets/front_pages/second_series/Issue1.png
 ---
 
 Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Vol1_Issue1.pdf))
