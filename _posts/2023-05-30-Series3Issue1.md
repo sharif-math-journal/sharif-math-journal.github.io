@@ -5,7 +5,7 @@ date: 2023-05-30 00:34:00 +0800
 categories: [Third Series]
 tags: [dynamical systems, algebraic geometry, cohomology, statistics, social sciences , algorithms, geometry, manifolds, logic, networks, graph theory, online algorithms, Cartan, Shahshahani, Imre Lakatos]
 image:
-  path: assets/front_pages/third_series/Issue1.png
+  path: /assets/front_pages/third_series/Issue1.jpg
 ---
 
 Full Issue ([Download](/assets/archive/secondSeries/3rdSeries_Issue1.pdf))
