@@ -1,6 +1,11 @@
 #  The contact options.
+
 - type: github
   icon: "fab fa-github"
+
+- type: telegram
+  icon: "fa-brands fa-telegram"
+  url: 'https://t.me/sharif_math_journal'
 
 - type: email
   icon: "fas fa-envelope"
@@ -9,7 +14,6 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
