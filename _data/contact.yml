@@ -3,10 +3,7 @@
   icon: "fab fa-github"
 
 - type: telegram
-  icon: "fas fa-telegram"
-
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+  icon: "fab fa-telegram"
 
 - type: email
   icon: "fas fa-envelope"
