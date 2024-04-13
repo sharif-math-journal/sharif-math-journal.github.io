@@ -8,7 +8,7 @@ image:
   path: assets/front_pages/third_series/Issue1.jpg
 ---
 
-Full Issue ([Download](/assets/archive/secondSeries/3rdSeries_Issue1.pdf))
+Full Issue ([Download](/assets/archive/thirdSeries/3rdSeries_Issue1.pdf))
 
 ### Table of Contents
 
