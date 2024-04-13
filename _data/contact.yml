@@ -10,10 +10,6 @@
   icon: "fas fa-rss"
   noblank: true
 
-- type: telegram
-  icon: "fab fa-telegram"
-  url: "https://t.me/sharif_math_journal"
-
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
