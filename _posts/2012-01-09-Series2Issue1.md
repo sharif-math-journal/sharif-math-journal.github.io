@@ -1,5 +1,5 @@
 ---
-title: 2nd Series, Volume 1, Issue 1
+title: 2nd Series, Issue 1
 author: SharifMathJournal
 date: 2012-01-09 00:34:00 +0800
 categories: [Second Series, Issue I]
