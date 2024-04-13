@@ -5,7 +5,7 @@ date: 2013-04-17 00:34:00 +0800
 categories: [Second Series]
 tags: [dynamical systems, algebraic geometry, cohomology, statistics, social sciences , algorithms, geometry, manifolds, logic, networks, graph theory, online algorithms, Cartan, Shahshahani, Imre Lakatos]
 image:
-  path: /assets/front_pages/second_series/Issue5.png
+  path: assets/front_pages/second_series/Issue5.png
 ---
 
 Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Issue5.pdf))
