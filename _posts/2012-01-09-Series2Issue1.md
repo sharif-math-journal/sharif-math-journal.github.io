@@ -7,7 +7,12 @@ tags: [mathematical aesthetics, group theory, algebra, topology, combinatorics, 
 image:
   path: /assets/front_pages/second_series/Issue1.png
 ---
+### Editorial Board of this Issue
+- [Amir Jafari](https://math.sharif.ir/faculties/ajafari), _Director-in-Charge_
+- [Abolfazl Taheri](https://ir.linkedin.com/in/abolfazl-taheri-79077076?original_referer=https%3A%2F%2Fwww.google.com%2F), _Editor-in-Chief_
 
+   
+### Download the Full Issue
 Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Vol1_Issue1.pdf))
 
 ### Table of Contents
@@ -23,3 +28,6 @@ Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Vol1_Issue1.pdf))
 - **Sales and Marketing in Social Networks**, by [MohammadAmin Fazli](https://sina.sharif.edu/~fazli/) and Nastaran Nikparto ([Download the article](/assets/archive/secondSeries/articles/Issue1/9.pdf))
 - **Agent-based Modelling and Simulations of Social Processes**, by [Masoud Amouzgar](https://ir.linkedin.com/in/masoud-amouzgar-17903529) ([Download the article](/assets/archive/secondSeries/articles/Issue1/10.pdf))
 - **Online Algorithms (Part I)**, by [Kaave Hosseini](https://www.cs.rochester.edu/u/shossei2/) ([Download the article](/assets/archive/secondSeries/articles/Issue1/11.pdf))
+
+
+Many thanks to Amir Asghari for his fantastic website [Math4Maryams](https://maths4maryams.org/), where we found this issue in its archive.
