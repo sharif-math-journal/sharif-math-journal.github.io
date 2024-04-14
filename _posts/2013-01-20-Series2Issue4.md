@@ -17,7 +17,7 @@ Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Issue4.pdf))
 
 ### Table of Contents
 
-- **What is Mathematics about?**, translated by [Kasra Alishahi](http://math.sharif.ir/faculties/alishahi) ([Download the article](/assets/archive/secondSeries/articles/Issue4/1.pdf))
+- **What is Mathematics about?**, translated by [Kasra Alishahi](https://math.sharif.ir/faculties/alishahi) ([Download the article](/assets/archive/secondSeries/articles/Issue4/1.pdf))
 - **What is Algebraic Geometry?**, by [Amir Jafari](https://math.sharif.ir/faculties/ajafari) ([Download the article](/assets/archive/secondSeries/articles/Issue4/2.pdf))
 - **Results in Analytic Number Theory**, by [Mohammad Ali Karami](https://www.linkedin.com/in/mohammad-ali-karami-0912522a9/) ([Download the article](/assets/archive/secondSeries/articles/Issue4/3.pdf))
 - **Planarity Criteria**, by Ali Ghassab ([Download the article](/assets/archive/secondSeries/articles/Issue4/4.pdf))
