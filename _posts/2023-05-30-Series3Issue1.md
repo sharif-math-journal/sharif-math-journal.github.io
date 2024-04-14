@@ -20,7 +20,7 @@ Full Issue ([Download](/assets/archive/thirdSeries/3rdSeries_Issue1.pdf))
 ### Table of Contents
 
 - **Leading Article**, by Navid Dejbord ([Download the article](/assets/archive/thirdSeries/articles/Issue1/1.pdf))
-- **Those Who Write**, by [Amir Asghari](https://amirasghari.com/)([Download the article](/assets/archive/thirdSeries/articles/Issue1/2.pdf))
+- **Those Who Write**, by [Amir Asghari](https://amirasghari.com/) ([Download the article](/assets/archive/thirdSeries/articles/Issue1/2.pdf))
 - **Gauss Sums: from Quadratic Reciprocity to the Weil conjectures**, by [Alireza Shavali](https://www.linkedin.com/in/alireza-shavali-kohshor-04b872102/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=de) ([Download the article](/assets/archive/thirdSeries/articles/Issue1/3.pdf))
 - **Chicken or the Egg?**, by [Amirkasra Jalaldoust](https://www.cs.columbia.edu/~kasra/) ([Download the article](/assets/archive/thirdSeries/articles/Issue1/4.pdf))
 - **Minimal Surfaces and De Giorgi's conjecture**, by Matin Hajian ([Download the article](/assets/archive/thirdSeries/articles/Issue2/5.pdf))
