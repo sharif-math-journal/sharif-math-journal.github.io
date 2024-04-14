@@ -7,7 +7,12 @@ tags: [dynamical systems, algebraic geometry, cohomology, statistics, social sci
 image:
   path: /assets/front_pages/second_series/Issue2.png
 ---
+### Editorial Board of this Issue
+- [Amir Jafari](https://math.sharif.ir/faculties/ajafari), _Director-in-Charge_
+- [Abolfazl Taheri](https://ir.linkedin.com/in/abolfazl-taheri-79077076?original_referer=https%3A%2F%2Fwww.google.com%2F), _Editor-in-Chief_
 
+   
+### Download the Full Issue
 Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Issue2.pdf))
 
 ### Table of Contents
@@ -23,3 +28,6 @@ Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Issue2.pdf))
 - **Proofs and Refutations**, by Imre Lakatos, translated by [Farid Bouya](https://math.oregonstate.edu/directory/farid-bouya) ([Download the article](/assets/archive/secondSeries/articles/Issue2/8.pdf))
 - **On Triangulation of Simple Networks**, by [Abolfazl Taheri](https://ir.linkedin.com/in/abolfazl-taheri-79077076?original_referer=https%3A%2F%2Fwww.google.com%2F) ([Download the article](/assets/archive/secondSeries/articles/Issue2/9.pdf))
 - **Online Algorithms (Part II)**, by [Kaave Hosseini](https://www.cs.rochester.edu/u/shossei2/) ([Download the article](/assets/archive/secondSeries/articles/Issue2/10.pdf))
+
+Many thanks to Amir Asghari for his fantastic website [Math4Maryams](https://maths4maryams.org/), where we found this issue in its archive.
+
