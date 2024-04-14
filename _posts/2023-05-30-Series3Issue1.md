@@ -8,7 +8,8 @@ image:
   path: assets/front_pages/third_series/Issue1.jpg
 ---
 ### Editorial Board of this Issue
-- Navid Dejbord, _editor-in-chief_
+- [Amir Jafari](https://math.sharif.ir/faculties/ajafari), _Director-in-Charge_
+- Navid Dejbord, _Editor-in-Chief_
 - [Ali Almasi](https://ali-almasi.github.io)
 - Niki Hassani
 - Matin Ansaripour
