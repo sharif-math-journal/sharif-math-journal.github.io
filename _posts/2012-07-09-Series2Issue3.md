@@ -18,7 +18,7 @@ Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Issue3.pdf))
 ### Table of Contents
 
 - **Fundamental Theorem of Algebra and Gauss' Algebraic Proof**, by [Amir Jafari](https://math.sharif.ir/faculties/ajafari) ([Download the article](/assets/archive/secondSeries/articles/Issue3/1.pdf))
-- **Proofs of Fundamental Theorem of Algebra**, by [Ahmad Reza Haj Saeedi Sadegh](https://sites.google.com/view/ahmadsadegh/home) ([Download the article](/assets/archive/secondSeries/articles/Issue3/2.pdf))
+- **Proofs of the Fundamental Theorem of Algebra**, by [Ahmad Reza Haj Saeedi Sadegh](https://sites.google.com/view/ahmadsadegh/home) ([Download the article](/assets/archive/secondSeries/articles/Issue3/2.pdf))
 - **Reduced Norms of Simple Algebras Over Function Fields**, by [Abolfazl Taheri](https://ir.linkedin.com/in/abolfazl-taheri-79077076?original_referer=https%3A%2F%2Fwww.google.com%2F) ([Download the article](/assets/archive/secondSeries/articles/Issue3/3.pdf))
 - **Alexander’s Horned Sphere**, by [Saman Habibi Esfahani](https://scholars.duke.edu/person/1277399) ([Download the article](/assets/archive/secondSeries/articles/Issue3/4.pdf))
 - **Torsion and its Applictions in Modern Gravity Theories**, by [Mahdi Kouretchian](https://people.clas.ufl.edu/mkouretchian/) ([Download the article](/assets/archive/secondSeries/articles/Issue3/5.pdf))
