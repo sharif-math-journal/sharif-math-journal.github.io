@@ -28,7 +28,8 @@ Full Issue ([Download](/assets/archive/secondSeries/2ndSeries_Issue4.pdf))
 - **Algorithmic Geometry of Numbers**, by [Navid Alamati](https://usa.visa.com/about-visa/visa-research/navid-alamati.html) ([Download the article](/assets/archive/secondSeries/articles/Issue4/9.pdf))
 - **Randomness Extractors**, by [Kaave Hosseini](https://www.cs.rochester.edu/u/shossei2/) ([Download the article](/assets/archive/secondSeries/articles/Issue4/10.pdf))
 - **Another Formulation of Computability**, by [Eugene Ghanizadeh](https://github.com/loreanvictor) ([Download the article](/assets/archive/secondSeries/articles/Issue4/11.pdf))
-- **Problems**, by [Khashayar Filom](https://sites.google.com/site/kfilommath/) ([Download the article](/assets/archive/secondSeries/articles/Issue4/12.pdf))
-
+- **Problems (Questions)**, by [Khashayar Filom](https://sites.google.com/site/kfilommath/) ([Download the article](/assets/archive/secondSeries/articles/Issue4/12.pdf))
+- **Problems (Solutions)**, by [Khashayar Filom](https://sites.google.com/site/kfilommath/) ([Download the article](/assets/archive/secondSeries/articles/Issue4/13.pdf))
+  
 Many thanks to Amir Asghari for his fantastic website [Math4Maryams](https://maths4maryams.org/), where we found this issue in its archive.
 
