@@ -7,6 +7,6 @@ tags: []
 image:
   path: assets/photos/post_cover.JPG
 ---
-
+رویداد فوق در سال فلان برگزار شد.
 ![Desktop View](assets/photos/SMJnight1.png){: .normal }
 
