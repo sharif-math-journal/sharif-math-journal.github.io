@@ -15,8 +15,8 @@ _The Event's Poster_
 
 ## Event Highlights
 - Public Lectures: Three distinguished speakers delivered explanatory lectures on various mathematical topics:
-  - _**Zeta Function and Stochastic Primes**_, Given by [Kasra Alishahi](http://math.sharif.ir/faculties/alishahi)
-  - **Isoperimetry: Theory and Applications**__, Given by [Amir Daneshgar](http://math.sharif.ir/faculties/daneshgar)
+  - _**Zeta Function and Stochastic Primes**_, Given by [Kasra Alishahi](https://math.sharif.ir/faculties/alishahi)
+  - **Isoperimetry: Theory and Applications**__, Given by [Amir Daneshgar](https://math.sharif.ir/faculties/daneshgar)
   - **"Or both": on the alleged exclusivity of disjunction**__, Given by [Kaave Lajevardi](https://www.kaavelajevardi.com/index.html)
 - Documentary Screening: A documentary about the Sharif Mathematics Journal's journey and vision was shown, giving viewers a better understanding of the journal's origins and aim.
 
