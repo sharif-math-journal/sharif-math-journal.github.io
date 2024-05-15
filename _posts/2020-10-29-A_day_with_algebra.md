@@ -18,4 +18,4 @@ On October 29, 2020, we celebrated National Algebra Day with a special event tit
 - Videos: Watch the recorded lectures and student talks online!
 - The event's booklet: Read it online, using [this link](/assets/photos/A_day_with_algebra/abstracts_of_lectures.pdf)!
 
-{% include embed/youtube.html id=p3IxhrgjaRc %}
+{% include embed/youtube.html id='p3IxhrgjaRc' %}
