@@ -14,11 +14,11 @@ On May 29, 2023, Sharif Mathematics Journal held a special event to celebrate th
 _The Event's Poster_
 
 ## Event Highlights
-- Public Lectures: Three distinguished speakers delivered explanatory lectures on various mathematical topics:
+- **Public Lectures:** Three distinguished speakers delivered explanatory lectures on various mathematical topics:
   - _**Zeta Function and Stochastic Primes**_, Given by [Kasra Alishahi](https://math.sharif.ir/faculties/alishahi)
-  - **Isoperimetry: Theory and Applications**__, Given by [Amir Daneshgar](https://math.sharif.ir/faculties/daneshgar)
-  - **"Or both": on the alleged exclusivity of disjunction**__, Given by [Kaave Lajevardi](https://www.kaavelajevardi.com/index.html)
-- Documentary Screening: A documentary about the Sharif Mathematics Journal's journey and vision was shown, giving viewers a better understanding of the journal's origins and aim.
+  - _**Isoperimetry: Theory and Applications**_, Given by [Amir Daneshgar](https://math.sharif.ir/faculties/daneshgar)
+  - _**"Or both": on the alleged exclusivity of disjunction**_, Given by [Kaave Lajevardi](https://www.kaavelajevardi.com/index.html)
+- **Documentary Screening:** A documentary about the Sharif Mathematics Journal's journey and vision was shown, giving viewers a better understanding of the journal's origins and aim.
 
 ## Resources
 - Photos: Explore a gallery of selected photos capturing memorable moments from the event.
