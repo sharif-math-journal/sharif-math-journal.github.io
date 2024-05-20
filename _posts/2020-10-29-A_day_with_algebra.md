@@ -23,15 +23,15 @@ On October 29, 2020, we celebrated National Algebra Day with a special event tit
 - The event's booklet: Read it online, using [this link](/assets/photos/A_day_with_algebra/abstracts_of_lectures.pdf)!
 - Videos: Watch the recorded lectures and student talks online!
 ### _The Historical Role of Algebra_ by Siavash Shahshahani
-- [Slides](assets/photos/A_day_with_algebra/Shahshani_slides.pdf)
+- [Slides](/assets/photos/A_day_with_algebra/Shahshani_slides.pdf)
 {% include embed/youtube.html id='p3IxhrgjaRc' %}
 ### _Kirillov's Orbit Method and Polynomiality of the Faithful Dimension of p-Groups_ by Keivan Mallahi-Karai
 {% include embed/youtube.html id='K-uFX8t4sgk' %}
 ### _Real Quaternions in Geometry and Algebra_ by Soheil Azarpendar
 {% include embed/youtube.html id='oKqJ7sUfoNE' %}
 ### _Solvability by Radicals_ by Alireza Shavali
-- [Slides](assets/photos/A_day_with_algebra/Shavali_slides.pdf)
+- [Slides](/assets/photos/A_day_with_algebra/Shavali_slides.pdf)
 {% include embed/youtube.html id='JzAYeSHQjCg' %}
 ### _Witt Vectors_ by Aliakbar Hosseini
-- [Slides](assets/photos/A_day_with_algebra/Hosseini_slides.pdf)
+- [Slides](/assets/photos/A_day_with_algebra/Hosseini_slides.pdf)
 {% include embed/youtube.html id='6q62rEzGFa0' %}
