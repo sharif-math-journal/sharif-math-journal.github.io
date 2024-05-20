@@ -23,7 +23,7 @@ On October 29, 2020, we celebrated National Algebra Day with a special event tit
 - The event's booklet: Read it online, using [this link](/assets/photos/A_day_with_algebra/abstracts_of_lectures.pdf)!
 - Videos: Watch the recorded lectures and student talks online!
 ### _The Historical Role of Algebra_ by Siavash Shahshahani
-- [Slides](assets/photos/A_day_with_algebra/Shahshahani_slides.pdf)
+- [Slides](assets/photos/A_day_with_algebra/Shahshani_slides.pdf)
 {% include embed/youtube.html id='p3IxhrgjaRc' %}
 ### _Kirillov's Orbit Method and Polynomiality of the Faithful Dimension of p-Groups_ by Keivan Mallahi-Karai
 {% include embed/youtube.html id='K-uFX8t4sgk' %}
