@@ -3,7 +3,7 @@ title: 3rd Series, Issue 2
 author: SharifMathJournal
 date: 2024-05-24 09:03:00 +0800
 categories: [Third Series]
-tags: [number theory, quadratic reciprocity, statistics, computability, causal inference, PDE, geometry, computer vision, machine learning, Abel prize, logic, correspondence, Frege, Russel, People and Mathematics, book review, Mohammad Ardeshir, Yahya Tabesh, Avi Wigderson, László Lovász, André Weil, problems]
+tags: [number theory, probability, complexity theory, women in math, information theory, geometry, measure theory, cryptography, foundations of mathematics, logic, correspondence, Frege, Russel, philosophy of mathematics, set theory, quantum computing, problems, Maryna Viazovska, Michel Talagrand]
 image:
   path: assets/front_pages/third_series/Issue2.jpg
 ---
