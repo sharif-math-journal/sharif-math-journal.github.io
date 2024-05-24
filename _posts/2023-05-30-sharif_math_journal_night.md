@@ -7,9 +7,7 @@ tags: []
 image:
   path: assets/photos/post_cover.JPG
 ---
-<div dir="rtl">
-توضیحات فارسی پایین‌تر آمده است.
-</div>
+
 # Sharif Mathematics Journal's Night: Celebrating the First Issue of the 3rd Series
 On May 29, 2023, Sharif Mathematics Journal held a special event to celebrate the publication of its inaugural issue. The evening consisted of three explanatory talks and a documentary screening about the Sharif Mathematics Journal.
 
