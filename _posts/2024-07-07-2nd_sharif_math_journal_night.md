@@ -14,7 +14,7 @@ On July 7, 2024, Sharif Mathematics Journal held an event in celebration of the 
 ## Lectures
 - _**The Geometry of the Space of Probability Measures**_, by [Amin Talebi](https://math.sharif.ir/faculties/talebi)
 - _**An application of Semi-definite Programming in Quantum Information Theory**_, by [Ali Almasi](https://ali-almasi.github.io), [Lecture script](https://ali-almasi.github.io/assets/talks_materials/An_Application_of_SDP_in_QIT.pdf)
-- _**On some of Maryam Mirzakhani's work which resulted in her receiving the Fields medal**_, by [Amir Jafari](https://math.sharif.ir/faculties/ajafari)
+- _**On some of Maryam Mirzakhani's work which resulted in her receiving the Fields medal**_, by [Amir Jafari](https://math.sharif.ir/faculties/ajafari), [Lecture script](/assets/photos/SMJ_Night_2/3_Slides.pdf)
 - _**Self-avoiding Walks on the Hexagonal Lattice**_, by Mahla Amiri
 
 
